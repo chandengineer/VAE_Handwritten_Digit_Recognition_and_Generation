@@ -68,6 +68,6 @@ The training performance is measured using:
 - **Reconstruction Error**: Reduces over time as the VAE learns better representations.
 - **KL Divergence**: Stabilizes quickly, ensuring a regularized latent space.
 
-![Performance Metrics](images/training_vs_validation.png)
+![Performance Metrics](images/KL_vs_Error.png)
 
 ---
